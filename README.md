@@ -1,5 +1,6 @@
 # Decoding-Fiscal-Narratives-A-20-Year-NLP-Study-of-India-s-Union-Budgets
 This repository contains code and resources for performing Natural Language Processing (NLP) analysis on budget speeches delivered by various finance ministers. The project leverages spaCy, Gensim, and Plotly to uncover insights from historical Indian budget speeches.
+Another approach using R has also been explored, you may find that in the second branch.
 
 Topic Modeling (LDA) to identify recurring themes across years and finance ministers.
 Sentiment Analysis to analyze the emotional tone of speeches over time.
